@@ -1,7 +1,15 @@
 * {
-    border: 1px solid blue;
+    border: 1px solid white;
   }
 
-  h1 { 
-      color:blue;
-  }
+h1 {
+    color: black;
+    background-color: white;
+}
+body{
+    background-image: url("https://wallpapercave.com/wp/wp2757875.gif");
+}
+
+p {
+    color: white;
+}
