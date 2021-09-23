@@ -1,12 +1,12 @@
 * {
-    border: 1px solid white;
-    border-width: 10px;
+    border: 5px solid white;
+    
   }
 
 h1 {
     color: black;
     background-color: white;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 50px;
 }
 body{
@@ -20,3 +20,19 @@ p {
     font-style: unset;
     font-size: 25px;
 }
+table{
+    color: white;
+    background-color:black;
+    width: 915px;
+    height: 200px;
+    border-color: black;
+    border-width: 1px;
+}
+td{
+    text-align: center;
+}
+img{
+    border-width: 1px;
+}
+
+    
